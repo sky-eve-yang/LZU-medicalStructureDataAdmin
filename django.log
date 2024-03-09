@@ -1,0 +1,888 @@
+INFO 2024-03-06 16:53:11,530 autoreload 52452 40424 Watching for file changes with StatReloader
+INFO 2024-03-06 16:53:13,200 basehttp 52452 34080 "GET / HTTP/1.1" 200 10617
+INFO 2024-03-06 16:53:13,256 basehttp 52452 34080 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2024-03-06 16:53:13,482 basehttp 52452 34080 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2024-03-06 16:53:13,482 basehttp 52452 50124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2024-03-06 16:53:13,483 basehttp 52452 3716 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2024-03-06 16:56:36,351 autoreload 52452 40424 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\settings.py changed, reloading.
+INFO 2024-03-06 16:56:37,273 autoreload 50976 29060 Watching for file changes with StatReloader
+INFO 2024-03-06 16:57:13,260 autoreload 32312 18520 Watching for file changes with StatReloader
+INFO 2024-03-06 16:57:14,293 basehttp 32312 39660 "GET / HTTP/1.1" 200 10617
+INFO 2024-03-06 16:57:18,197 basehttp 32312 39660 "GET / HTTP/1.1" 200 10617
+INFO 2024-03-06 16:59:28,692 autoreload 50484 39060 Watching for file changes with StatReloader
+INFO 2024-03-06 16:59:30,347 basehttp 50484 34288 "GET / HTTP/1.1" 200 10617
+INFO 2024-03-06 16:59:32,876 basehttp 50484 34288 "GET / HTTP/1.1" 200 10617
+INFO 2024-03-06 16:59:46,552 basehttp 50484 48708 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-06 16:59:46,571 basehttp 50484 48708 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-06 16:59:46,611 basehttp 50484 48708 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4029
+INFO 2024-03-06 16:59:46,645 basehttp 50484 1740 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2024-03-06 16:59:46,647 basehttp 50484 42244 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 200 115997
+INFO 2024-03-06 16:59:46,649 basehttp 50484 43340 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 200 101784
+INFO 2024-03-06 16:59:46,651 basehttp 50484 48708 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 200 238628
+INFO 2024-03-06 16:59:46,681 basehttp 50484 43340 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2024-03-06 16:59:46,690 basehttp 50484 1740 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-06 16:59:46,692 basehttp 50484 51248 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2024-03-06 16:59:46,698 basehttp 50484 48708 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 200 93675
+INFO 2024-03-06 16:59:46,715 basehttp 50484 48688 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2024-03-06 16:59:46,763 basehttp 50484 42244 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 200 586253
+INFO 2024-03-06 16:59:46,848 basehttp 50484 42244 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150472
+INFO 2024-03-06 16:59:48,192 basehttp 50484 42244 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2024-03-06 16:59:48,447 basehttp 50484 42244 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-06 16:59:48,508 basehttp 50484 42244 "GET /admin/ HTTP/1.1" 200 18580
+INFO 2024-03-06 16:59:48,542 basehttp 50484 42244 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 200 6994
+INFO 2024-03-06 16:59:48,543 basehttp 50484 48688 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+INFO 2024-03-06 16:59:48,576 basehttp 50484 48688 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 200 12677
+INFO 2024-03-06 16:59:48,586 basehttp 50484 42244 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 200 1194
+INFO 2024-03-06 16:59:48,614 basehttp 50484 48688 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 200 1254
+INFO 2024-03-06 16:59:48,615 basehttp 50484 48708 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 200 524
+INFO 2024-03-06 16:59:48,615 basehttp 50484 42244 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 200 811
+INFO 2024-03-06 16:59:48,616 basehttp 50484 43340 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 200 1216
+INFO 2024-03-06 16:59:48,616 basehttp 50484 51248 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 200 4274
+INFO 2024-03-06 16:59:48,624 basehttp 50484 1740 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 200 6329
+INFO 2024-03-06 16:59:48,634 basehttp 50484 48688 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 200 21460
+INFO 2024-03-06 16:59:48,692 basehttp 50484 48688 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25096
+INFO 2024-03-06 16:59:48,694 basehttp 50484 1740 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107460
+ERROR 2024-03-06 16:59:52,884 log 50484 1740 Internal Server Error: /admin/medicalStructureDataAdmin/record/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 1931, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 834, in get_changelist_instance
+    return ChangeList(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 503, in get_queryset
+    ) = self.get_filters(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 182, in get_filters
+    spec = field_list_filter_class(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 175, in create
+    return list_filter_class(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 188, in __init__
+    self.lookup_choices = self.field_choices(field, request, model_admin)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 225, in field_choices
+    return field.get_choices(include_blank=False, ordering=ordering)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\fields\__init__.py", line 980, in get_choices
+    return (blank_choice if include_blank else []) + [
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 394, in __iter__
+    self._fetch_all()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 16:59:52,893 basehttp 50484 1740 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 500 199640
+ERROR 2024-03-06 16:59:53,722 log 50484 53332 Internal Server Error: /admin/medicalStructureDataAdmin/schemaconfig/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 1931, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 834, in get_changelist_instance
+    return ChangeList(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 503, in get_queryset
+    ) = self.get_filters(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 182, in get_filters
+    spec = field_list_filter_class(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 175, in create
+    return list_filter_class(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 188, in __init__
+    self.lookup_choices = self.field_choices(field, request, model_admin)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 225, in field_choices
+    return field.get_choices(include_blank=False, ordering=ordering)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\fields\__init__.py", line 980, in get_choices
+    return (blank_choice if include_blank else []) + [
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 394, in __iter__
+    self._fetch_all()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 16:59:53,728 basehttp 50484 53332 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 500 199944
+ERROR 2024-03-06 16:59:54,571 log 50484 53332 Internal Server Error: /admin/medicalStructureDataAdmin/user/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 1931, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 834, in get_changelist_instance
+    return ChangeList(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 621, in count
+    return self.query.get_count(using=self.db)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\query.py", line 559, in get_count
+    return obj.get_aggregation(using, ["__count"])["__count"]
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\query.py", line 544, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 16:59:54,577 basehttp 50484 53332 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 500 179296
+INFO 2024-03-06 17:01:58,686 autoreload 37020 49572 Watching for file changes with StatReloader
+INFO 2024-03-06 17:02:01,010 basehttp 37020 23708 "GET /admin/ HTTP/1.1" 200 18580
+ERROR 2024-03-06 17:02:01,182 log 37020 23708 Internal Server Error: /admin/medicalStructureDataAdmin/user/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 1931, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 834, in get_changelist_instance
+    return ChangeList(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 621, in count
+    return self.query.get_count(using=self.db)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\query.py", line 559, in get_count
+    return obj.get_aggregation(using, ["__count"])["__count"]
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\query.py", line 544, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 17:02:01,189 basehttp 37020 23708 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 500 179165
+INFO 2024-03-06 17:02:55,755 autoreload 37020 49572 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 17:02:56,569 autoreload 23564 46972 Watching for file changes with StatReloader
+INFO 2024-03-06 17:03:04,085 basehttp 23564 54260 "GET /admin/ HTTP/1.1" 200 18580
+ERROR 2024-03-06 17:03:04,272 log 23564 54260 Internal Server Error: /admin/medicalStructureDataAdmin/user/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 1931, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 834, in get_changelist_instance
+    return ChangeList(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 123, in __init__
+    self.get_results(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 279, in get_results
+    result_count = paginator.count
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 621, in count
+    return self.query.get_count(using=self.db)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\query.py", line 559, in get_count
+    return obj.get_aggregation(using, ["__count"])["__count"]
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\query.py", line 544, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 17:03:04,279 basehttp 23564 54260 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 500 179165
+INFO 2024-03-06 17:10:47,742 autoreload 46880 45508 Watching for file changes with StatReloader
+ERROR 2024-03-06 17:10:56,712 log 46880 52104 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 261, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 230, in inner
+    if not self.has_permission(request):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 203, in has_permission
+    return request.user.is_active and request.user.is_staff
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\functional.py", line 266, in inner
+    self._setup()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\functional.py", line 419, in _setup
+    self._wrapped = self._setupfunc()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\middleware.py", line 25, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\middleware.py", line 11, in get_user
+    request._cached_user = auth.get_user(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\__init__.py", line 198, in get_user
+    user = backend.get_user(user_id)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\backends.py", line 162, in get_user
+    user = UserModel._default_manager.get(pk=user_id)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 17:10:56,719 basehttp 46880 52104 "GET /admin/ HTTP/1.1" 500 179413
+ERROR 2024-03-06 17:11:07,204 log 46880 47204 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 261, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 230, in inner
+    if not self.has_permission(request):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 203, in has_permission
+    return request.user.is_active and request.user.is_staff
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\functional.py", line 266, in inner
+    self._setup()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\functional.py", line 419, in _setup
+    self._wrapped = self._setupfunc()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\middleware.py", line 25, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\middleware.py", line 11, in get_user
+    request._cached_user = auth.get_user(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\__init__.py", line 198, in get_user
+    user = backend.get_user(user_id)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\auth\backends.py", line 162, in get_user
+    user = UserModel._default_manager.get(pk=user_id)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 646, in get
+    num = len(clone)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 376, in __len__
+    self._fetch_all()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 17:11:07,208 basehttp 46880 47204 "GET /admin/ HTTP/1.1" 500 179100
+INFO 2024-03-06 17:11:21,088 autoreload 46880 45508 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\settings.py changed, reloading.
+INFO 2024-03-06 17:11:21,951 autoreload 34444 39748 Watching for file changes with StatReloader
+INFO 2024-03-06 17:11:22,122 basehttp 34444 32612 "GET /admin/ HTTP/1.1" 200 18580
+INFO 2024-03-06 17:13:13,913 autoreload 34444 39748 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 17:13:14,675 autoreload 53628 53204 Watching for file changes with StatReloader
+INFO 2024-03-06 17:13:17,979 autoreload 53628 53204 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 17:13:18,716 autoreload 39584 8076 Watching for file changes with StatReloader
+INFO 2024-03-06 17:13:24,767 basehttp 39584 17448 "GET /admin/ HTTP/1.1" 200 18698
+ERROR 2024-03-06 17:13:50,166 log 39584 14464 Internal Server Error: /admin/medicalStructureDataAdmin/record/
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: medicalStructureDataAdmin_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\utils\decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 1931, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\options.py", line 834, in get_changelist_instance
+    return ChangeList(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 503, in get_queryset
+    ) = self.get_filters(request)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\views\main.py", line 182, in get_filters
+    spec = field_list_filter_class(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 175, in create
+    return list_filter_class(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 188, in __init__
+    self.lookup_choices = self.field_choices(field, request, model_admin)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\contrib\admin\filters.py", line 225, in field_choices
+    return field.get_choices(include_blank=False, ordering=ordering)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\fields\__init__.py", line 980, in get_choices
+    return (blank_choice if include_blank else []) + [
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 394, in __iter__
+    self._fetch_all()
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\models\sql\compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\aSoftware\Anaconda\envs\py3.8\lib\site-packages\django\db\backends\sqlite3\base.py", line 357, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: medicalStructureDataAdmin_user
+ERROR 2024-03-06 17:13:50,172 basehttp 39584 14464 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 500 199640
+INFO 2024-03-06 17:39:49,562 autoreload 51444 43188 Watching for file changes with StatReloader
+INFO 2024-03-06 17:42:25,308 basehttp 51444 19652 "GET /admin/ HTTP/1.1" 200 18698
+INFO 2024-03-06 17:42:25,595 basehttp 51444 19652 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 33771
+INFO 2024-03-06 17:42:25,628 basehttp 51444 11976 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 200 4638
+INFO 2024-03-06 17:42:25,629 basehttp 51444 19652 "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 20344
+INFO 2024-03-06 17:42:25,633 basehttp 51444 11976 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+INFO 2024-03-06 17:42:25,634 basehttp 51444 19652 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 200 1254
+INFO 2024-03-06 17:42:25,638 basehttp 51444 11976 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 200 524
+INFO 2024-03-06 17:42:25,645 basehttp 51444 52464 "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 200 6395
+INFO 2024-03-06 17:42:25,652 basehttp 51444 19652 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 17:42:25,652 basehttp 51444 45136 "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 200 18854
+INFO 2024-03-06 17:42:25,656 basehttp 51444 7760 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 200 4270
+INFO 2024-03-06 17:42:25,664 basehttp 51444 33012 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+INFO 2024-03-06 17:42:25,671 basehttp 51444 19652 "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO 2024-03-06 17:42:25,678 basehttp 51444 52464 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-06 17:42:25,685 basehttp 51444 45136 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8919
+INFO 2024-03-06 17:42:25,692 basehttp 51444 7760 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-06 17:42:25,697 basehttp 51444 33012 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO 2024-03-06 17:42:25,698 basehttp 51444 7760 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 200 12677
+INFO 2024-03-06 17:42:25,705 basehttp 51444 19652 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-06 17:42:25,707 basehttp 51444 33012 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 200 1194
+INFO 2024-03-06 17:42:25,709 basehttp 51444 11976 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO 2024-03-06 17:42:25,738 basehttp 51444 45136 "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 89501
+INFO 2024-03-06 17:42:25,740 basehttp 51444 52464 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-06 17:42:25,743 basehttp 51444 7760 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 200 14237
+INFO 2024-03-06 17:42:27,847 basehttp 51444 7760 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31411
+INFO 2024-03-06 17:42:27,877 basehttp 51444 7760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 17:42:28,447 basehttp 51444 7760 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29637
+INFO 2024-03-06 17:42:28,465 basehttp 51444 7760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:25:59,268 autoreload 51444 43188 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 18:26:00,298 autoreload 23100 34708 Watching for file changes with StatReloader
+INFO 2024-03-06 18:26:07,747 autoreload 23100 34708 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 18:26:08,701 autoreload 37660 16708 Watching for file changes with StatReloader
+INFO 2024-03-06 18:26:14,084 autoreload 37660 16708 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 18:26:14,958 autoreload 4844 1660 Watching for file changes with StatReloader
+INFO 2024-03-06 18:26:23,770 basehttp 4844 46760 "GET /admin/ HTTP/1.1" 200 18698
+INFO 2024-03-06 18:26:23,957 basehttp 4844 46760 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31418
+INFO 2024-03-06 18:26:23,993 basehttp 4844 46760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:26:26,171 basehttp 4844 46760 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 33775
+INFO 2024-03-06 18:26:26,194 basehttp 4844 46760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:26:56,493 basehttp 4844 46760 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29639
+INFO 2024-03-06 18:26:56,531 basehttp 4844 46760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:27:04,659 basehttp 4844 46760 "GET /admin/ HTTP/1.1" 200 18698
+INFO 2024-03-06 18:27:04,821 basehttp 4844 46760 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29639
+INFO 2024-03-06 18:27:04,925 basehttp 4844 46760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:27:06,934 basehttp 4844 46760 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31418
+INFO 2024-03-06 18:27:06,959 basehttp 4844 46760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:27:39,268 basehttp 4844 46760 "GET /admin/ HTTP/1.1" 200 18698
+INFO 2024-03-06 18:27:39,474 basehttp 4844 46760 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29639
+INFO 2024-03-06 18:27:39,547 basehttp 4844 46760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:27:42,377 basehttp 4844 46760 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 33775
+INFO 2024-03-06 18:27:42,385 basehttp 4844 52592 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31418
+INFO 2024-03-06 18:27:42,416 basehttp 4844 52592 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:27:42,421 basehttp 4844 46760 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:28:09,805 autoreload 11832 34748 Watching for file changes with StatReloader
+INFO 2024-03-06 18:28:11,227 basehttp 11832 49032 "GET /admin/ HTTP/1.1" 200 18698
+INFO 2024-03-06 18:28:11,376 basehttp 11832 49032 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31418
+INFO 2024-03-06 18:28:11,420 basehttp 11832 49032 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:28:12,406 basehttp 11832 49032 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 33775
+INFO 2024-03-06 18:28:12,435 basehttp 11832 49032 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:28:20,020 basehttp 11832 49032 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29639
+INFO 2024-03-06 18:28:20,060 basehttp 11832 49032 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:28:23,406 basehttp 11832 49032 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31418
+INFO 2024-03-06 18:28:23,460 basehttp 11832 49032 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:28:24,970 basehttp 11832 49032 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29639
+INFO 2024-03-06 18:28:25,020 basehttp 11832 49032 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:28:48,546 autoreload 11832 34748 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\admin.py changed, reloading.
+INFO 2024-03-06 18:28:49,343 autoreload 6408 51536 Watching for file changes with StatReloader
+INFO 2024-03-06 18:29:06,054 autoreload 6408 51536 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\admin.py changed, reloading.
+INFO 2024-03-06 18:29:06,837 autoreload 9828 51168 Watching for file changes with StatReloader
+INFO 2024-03-06 18:29:37,994 autoreload 9828 51168 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\admin.py changed, reloading.
+INFO 2024-03-06 18:29:38,822 autoreload 13916 47436 Watching for file changes with StatReloader
+INFO 2024-03-06 18:29:44,096 basehttp 13916 40276 "GET /admin/ HTTP/1.1" 200 18698
+INFO 2024-03-06 18:29:44,324 basehttp 13916 40276 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29936
+INFO 2024-03-06 18:29:44,381 basehttp 13916 40276 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:29:48,778 basehttp 13916 40276 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31713
+INFO 2024-03-06 18:29:48,820 basehttp 13916 40276 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 18:29:53,698 basehttp 13916 40276 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 33775
+INFO 2024-03-06 18:29:53,731 basehttp 13916 40276 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:11:43,142 basehttp 13916 8412 "GET /admin/medicalStructureDataAdmin/user/add/ HTTP/1.1" 200 11131
+INFO 2024-03-06 20:11:43,174 basehttp 13916 8412 "GET /static/admin/css/forms.css HTTP/1.1" 200 8944
+INFO 2024-03-06 20:11:43,193 basehttp 13916 47588 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:11:43,206 basehttp 13916 15892 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-06 20:11:43,207 basehttp 13916 12676 "GET /static/admin/js/change_form.js HTTP/1.1" 200 1043
+INFO 2024-03-06 20:11:43,208 basehttp 13916 8412 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2024-03-06 20:11:43,209 basehttp 13916 42888 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19379
+INFO 2024-03-06 20:11:43,248 basehttp 13916 42888 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11297
+INFO 2024-03-06 20:11:43,310 basehttp 13916 8412 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-03-06 20:11:43,310 basehttp 13916 42888 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-03-06 20:11:59,748 basehttp 13916 42888 "POST /admin/medicalStructureDataAdmin/user/add/ HTTP/1.1" 200 11500
+INFO 2024-03-06 20:11:59,784 basehttp 13916 42888 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:18:32,336 autoreload 15492 49836 Watching for file changes with StatReloader
+INFO 2024-03-06 20:18:36,173 basehttp 15492 47484 "GET /admin/ HTTP/1.1" 200 18698
+INFO 2024-03-06 20:18:36,358 basehttp 15492 47484 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 29936
+INFO 2024-03-06 20:18:36,391 basehttp 15492 47484 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:18:40,911 basehttp 15492 47484 "GET /admin/medicalStructureDataAdmin/user/add/ HTTP/1.1" 200 11131
+INFO 2024-03-06 20:18:40,943 basehttp 15492 47484 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:19:23,976 basehttp 15492 47484 "POST /admin/medicalStructureDataAdmin/user/add/ HTTP/1.1" 302 0
+INFO 2024-03-06 20:19:23,996 basehttp 15492 47484 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30686
+INFO 2024-03-06 20:19:24,055 basehttp 15492 47484 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:19:25,505 basehttp 15492 47484 "GET /admin/medicalStructureDataAdmin/user/440101197712085643/change/ HTTP/1.1" 200 11944
+INFO 2024-03-06 20:19:25,542 basehttp 15492 47484 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:19:27,483 basehttp 15492 47484 "POST /admin/medicalStructureDataAdmin/user/440101197712085643/change/ HTTP/1.1" 302 0
+INFO 2024-03-06 20:19:27,500 basehttp 15492 47484 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30686
+INFO 2024-03-06 20:19:27,539 basehttp 15492 47484 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:19:29,603 basehttp 15492 47484 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 31713
+INFO 2024-03-06 20:19:29,641 basehttp 15492 47484 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:19:33,635 basehttp 15492 47484 "GET /admin/medicalStructureDataAdmin/schemaconfig/add/ HTTP/1.1" 200 12539
+INFO 2024-03-06 20:19:33,666 basehttp 15492 47600 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-06 20:19:33,666 basehttp 15492 47484 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-06 20:19:33,681 basehttp 15492 47484 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:19:33,686 basehttp 15492 47600 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-06 20:21:03,248 basehttp 15492 47600 "POST /admin/medicalStructureDataAdmin/schemaconfig/add/ HTTP/1.1" 200 12952
+INFO 2024-03-06 20:21:03,295 basehttp 15492 47600 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:21:23,706 autoreload 15492 49836 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:21:24,535 autoreload 48540 31344 Watching for file changes with StatReloader
+INFO 2024-03-06 20:21:27,302 basehttp 48540 39016 "GET /admin/ HTTP/1.1" 200 19739
+INFO 2024-03-06 20:21:27,503 basehttp 48540 39016 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 33757
+INFO 2024-03-06 20:21:27,595 basehttp 48540 39016 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:21:28,799 basehttp 48540 39016 "GET /admin/medicalStructureDataAdmin/schemaconfig/add/ HTTP/1.1" 200 12030
+INFO 2024-03-06 20:21:28,840 basehttp 48540 39016 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:21:55,515 autoreload 47028 33140 Watching for file changes with StatReloader
+INFO 2024-03-06 20:21:57,431 basehttp 47028 42824 "GET /admin/ HTTP/1.1" 200 19739
+INFO 2024-03-06 20:21:57,725 basehttp 47028 42824 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 33757
+INFO 2024-03-06 20:21:57,768 basehttp 47028 42824 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:21:59,978 basehttp 47028 42824 "GET /admin/medicalStructureDataAdmin/schemaconfig/add/ HTTP/1.1" 200 12030
+INFO 2024-03-06 20:22:00,026 basehttp 47028 42824 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:22:19,302 basehttp 47028 42824 "POST /admin/medicalStructureDataAdmin/schemaconfig/add/ HTTP/1.1" 302 0
+INFO 2024-03-06 20:22:19,319 basehttp 47028 42824 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34762
+INFO 2024-03-06 20:22:19,370 basehttp 47028 42824 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:22:25,903 basehttp 47028 42824 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 33775
+INFO 2024-03-06 20:22:25,937 basehttp 47028 42824 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:22:26,778 basehttp 47028 42824 "GET /admin/medicalStructureDataAdmin/record/add/ HTTP/1.1" 200 13224
+INFO 2024-03-06 20:22:26,810 basehttp 47028 42824 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:23:05,826 basehttp 47028 41684 "POST /admin/medicalStructureDataAdmin/record/add/ HTTP/1.1" 302 0
+INFO 2024-03-06 20:23:05,838 basehttp 47028 41684 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35527
+INFO 2024-03-06 20:23:05,897 basehttp 47028 41684 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:23:30,688 autoreload 47028 33140 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:23:31,631 autoreload 51664 36384 Watching for file changes with StatReloader
+INFO 2024-03-06 20:23:33,782 basehttp 51664 8068 "GET /admin/medicalStructureDataAdmin/record/add/ HTTP/1.1" 200 13238
+INFO 2024-03-06 20:23:33,821 basehttp 51664 8068 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:23:37,185 basehttp 51664 52672 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35326
+INFO 2024-03-06 20:23:37,216 basehttp 51664 52672 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:23:56,692 autoreload 51664 36384 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:23:57,460 autoreload 49416 52640 Watching for file changes with StatReloader
+INFO 2024-03-06 20:24:20,477 autoreload 49416 52640 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:24:21,352 autoreload 23072 51992 Watching for file changes with StatReloader
+INFO 2024-03-06 20:24:27,738 autoreload 23072 51992 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:24:28,599 autoreload 11320 46864 Watching for file changes with StatReloader
+INFO 2024-03-06 20:24:28,792 basehttp 11320 52516 "GET /admin/medicalStructureDataAdmin/record/add/ HTTP/1.1" 200 13243
+INFO 2024-03-06 20:24:28,849 basehttp 11320 52516 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:24:32,219 basehttp 11320 52516 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35331
+INFO 2024-03-06 20:24:32,253 basehttp 11320 52516 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:24:45,819 autoreload 43288 45824 Watching for file changes with StatReloader
+INFO 2024-03-06 20:27:14,433 autoreload 43288 45824 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:27:15,391 autoreload 28488 22600 Watching for file changes with StatReloader
+INFO 2024-03-06 20:27:16,367 basehttp 28488 26952 "GET /admin/ HTTP/1.1" 200 20566
+INFO 2024-03-06 20:27:16,626 basehttp 28488 26952 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34565
+INFO 2024-03-06 20:27:16,684 basehttp 28488 26952 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:30:34,248 autoreload 28488 22600 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\settings.py changed, reloading.
+INFO 2024-03-06 20:30:35,226 autoreload 36892 12996 Watching for file changes with StatReloader
+INFO 2024-03-06 20:31:21,447 autoreload 36892 12996 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\settings.py changed, reloading.
+INFO 2024-03-06 20:31:22,076 autoreload 29180 52136 Watching for file changes with StatReloader
+INFO 2024-03-06 20:31:33,536 autoreload 29180 52136 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\settings.py changed, reloading.
+INFO 2024-03-06 20:31:34,419 autoreload 48956 52192 Watching for file changes with StatReloader
+INFO 2024-03-06 20:31:34,573 basehttp 48956 17440 "GET /admin/ HTTP/1.1" 200 20586
+INFO 2024-03-06 20:31:34,769 basehttp 48956 17440 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34565
+INFO 2024-03-06 20:31:34,841 basehttp 48956 17440 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:31:38,317 basehttp 48956 17440 "GET /admin/ HTTP/1.1" 200 20586
+INFO 2024-03-06 20:31:38,448 basehttp 48956 17440 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34565
+INFO 2024-03-06 20:31:38,505 basehttp 48956 17440 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:38:53,872 basehttp 48956 38852 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-06 20:38:53,953 basehttp 48956 38852 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:39:25,807 basehttp 48956 38852 "GET /admin/medicalStructureDataAdmin/user/add/ HTTP/1.1" 200 11131
+INFO 2024-03-06 20:39:25,866 basehttp 48956 38852 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:39:29,498 basehttp 48956 38852 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-06 20:39:29,547 basehttp 48956 38852 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:39:33,674 basehttp 48956 38852 "GET /admin/medicalStructureDataAdmin/schemaconfig/46010120031217176X/change/ HTTP/1.1" 200 12904
+INFO 2024-03-06 20:39:33,715 basehttp 48956 38852 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:39:35,982 basehttp 48956 38852 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34565
+INFO 2024-03-06 20:39:36,051 basehttp 48956 38852 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:39:44,673 basehttp 48956 38852 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35331
+INFO 2024-03-06 20:39:44,716 basehttp 48956 38852 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:40:38,970 autoreload 48956 52192 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:40:39,813 autoreload 25468 51820 Watching for file changes with StatReloader
+INFO 2024-03-06 20:40:42,856 basehttp 25468 28992 "GET /admin/ HTTP/1.1" 200 20586
+INFO 2024-03-06 20:40:43,121 basehttp 25468 28992 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35312
+INFO 2024-03-06 20:40:43,175 basehttp 25468 28992 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:41:52,296 basehttp 25468 28992 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-06 20:41:52,350 basehttp 25468 28992 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:42:02,248 basehttp 25468 28992 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34551
+INFO 2024-03-06 20:42:02,303 basehttp 25468 28992 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:42:31,028 autoreload 25468 51820 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:42:31,985 autoreload 52860 44668 Watching for file changes with StatReloader
+INFO 2024-03-06 20:42:32,513 basehttp 52860 31248 "GET /admin/ HTTP/1.1" 200 20586
+INFO 2024-03-06 20:42:32,790 basehttp 52860 31248 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35331
+INFO 2024-03-06 20:42:32,895 basehttp 52860 31248 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:42:51,635 basehttp 52860 31248 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-06 20:42:51,684 basehttp 52860 31248 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-06 20:55:57,305 autoreload 52860 44668 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-06 20:55:58,322 autoreload 40004 44080 Watching for file changes with StatReloader
+INFO 2024-03-07 11:27:20,164 basehttp 40004 29724 "GET /admin/ HTTP/1.1" 200 20586
+INFO 2024-03-07 20:50:00,655 autoreload 40004 44080 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 20:50:02,391 autoreload 21384 19732 Watching for file changes with StatReloader
+INFO 2024-03-07 21:04:16,270 autoreload 21384 19732 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:04:17,232 autoreload 5084 40732 Watching for file changes with StatReloader
+INFO 2024-03-07 21:06:20,346 autoreload 5084 40732 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:06:21,165 autoreload 56568 45760 Watching for file changes with StatReloader
+INFO 2024-03-07 21:06:39,937 autoreload 56568 45760 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:06:40,817 autoreload 14728 55016 Watching for file changes with StatReloader
+INFO 2024-03-07 21:07:28,458 autoreload 14728 55016 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:07:29,260 autoreload 38932 58484 Watching for file changes with StatReloader
+INFO 2024-03-07 21:08:38,683 autoreload 38932 58484 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:08:39,484 autoreload 32640 38956 Watching for file changes with StatReloader
+INFO 2024-03-07 21:09:00,332 autoreload 32640 38956 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:09:01,101 autoreload 57528 54784 Watching for file changes with StatReloader
+INFO 2024-03-07 21:10:30,947 autoreload 6340 18508 Watching for file changes with StatReloader
+INFO 2024-03-07 21:10:39,372 autoreload 6340 18508 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\admin.py changed, reloading.
+INFO 2024-03-07 21:10:40,198 autoreload 32224 51212 Watching for file changes with StatReloader
+INFO 2024-03-07 21:10:44,382 basehttp 32224 58948 "GET / HTTP/1.1" 200 10617
+INFO 2024-03-07 21:10:52,586 basehttp 32224 58948 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-07 21:10:52,697 basehttp 32224 58948 "GET /admin/ HTTP/1.1" 200 20902
+INFO 2024-03-07 21:10:57,054 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/llm/ HTTP/1.1" 200 31050
+INFO 2024-03-07 21:10:57,130 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:00,548 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/llm/add/ HTTP/1.1" 200 10034
+INFO 2024-03-07 21:11:00,585 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:10,456 basehttp 32224 58948 "POST /admin/medicalStructureDataAdmin/llm/add/ HTTP/1.1" 302 0
+INFO 2024-03-07 21:11:10,472 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/llm/ HTTP/1.1" 200 31758
+INFO 2024-03-07 21:11:10,511 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:20,089 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/llm/?o=2 HTTP/1.1" 200 32252
+INFO 2024-03-07 21:11:20,118 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:20,225 basehttp 32224 58948 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-03-07 21:11:22,549 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/llm/?o=1.2 HTTP/1.1" 200 32989
+INFO 2024-03-07 21:11:22,594 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:26,481 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/llm/?o=2 HTTP/1.1" 200 32252
+INFO 2024-03-07 21:11:26,522 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:28,369 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/llm/?o= HTTP/1.1" 200 31784
+INFO 2024-03-07 21:11:28,404 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:34,432 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-07 21:11:34,480 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:35,801 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35331
+INFO 2024-03-07 21:11:35,847 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:11:37,770 basehttp 32224 58948 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34565
+INFO 2024-03-07 21:11:37,812 basehttp 32224 58948 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:13:10,011 autoreload 32224 51212 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:13:10,941 autoreload 47916 39976 Watching for file changes with StatReloader
+INFO 2024-03-07 21:13:22,408 autoreload 47916 39976 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:13:23,175 autoreload 47600 9332 Watching for file changes with StatReloader
+INFO 2024-03-07 21:13:24,447 autoreload 47600 9332 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\models.py changed, reloading.
+INFO 2024-03-07 21:13:25,251 autoreload 5884 49488 Watching for file changes with StatReloader
+INFO 2024-03-07 21:13:30,712 basehttp 5884 8352 "GET /admin/ HTTP/1.1" 200 21314
+INFO 2024-03-07 21:13:30,898 basehttp 5884 8352 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 34197
+INFO 2024-03-07 21:13:30,947 basehttp 5884 8352 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:13:32,126 basehttp 5884 8352 "GET /admin/medicalStructureDataAdmin/llm/ HTTP/1.1" 200 31556
+INFO 2024-03-07 21:13:32,157 basehttp 5884 8352 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:13:33,810 basehttp 5884 8352 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-07 21:13:33,858 basehttp 5884 8352 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:13:34,997 basehttp 5884 8352 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34565
+INFO 2024-03-07 21:13:35,035 basehttp 5884 8352 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:13:40,442 basehttp 5884 8352 "GET /admin/medicalStructureDataAdmin/record/?o=1 HTTP/1.1" 200 34873
+INFO 2024-03-07 21:13:40,470 basehttp 5884 8352 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:17:40,750 autoreload 57624 51768 Watching for file changes with StatReloader
+INFO 2024-03-07 21:18:24,327 autoreload 27252 47796 Watching for file changes with StatReloader
+INFO 2024-03-07 21:18:26,808 basehttp 27252 55572 "GET /admin/ HTTP/1.1" 200 21314
+INFO 2024-03-07 21:18:27,022 basehttp 27252 55572 "GET /admin/medicalStructureDataAdmin/llm/ HTTP/1.1" 200 31556
+INFO 2024-03-07 21:18:27,065 basehttp 27252 55572 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:18:29,286 basehttp 27252 55572 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-07 21:18:29,324 basehttp 27252 55572 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:18:30,851 basehttp 27252 55572 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35331
+INFO 2024-03-07 21:18:30,892 basehttp 27252 55572 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:18:52,696 autoreload 27252 47796 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\admin.py changed, reloading.
+INFO 2024-03-07 21:18:53,496 autoreload 51172 31096 Watching for file changes with StatReloader
+INFO 2024-03-07 21:19:04,000 autoreload 51172 31096 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\admin.py changed, reloading.
+INFO 2024-03-07 21:19:04,825 autoreload 59236 58312 Watching for file changes with StatReloader
+INFO 2024-03-07 21:19:06,926 basehttp 59236 14420 "GET /admin/ HTTP/1.1" 200 21314
+INFO 2024-03-07 21:19:07,159 basehttp 59236 14420 "GET /admin/medicalStructureDataAdmin/record/ HTTP/1.1" 200 35729
+INFO 2024-03-07 21:19:07,207 basehttp 59236 14420 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:19:14,295 basehttp 59236 14420 "GET /admin/medicalStructureDataAdmin/record/? HTTP/1.1" 200 35729
+INFO 2024-03-07 21:19:14,331 basehttp 59236 14420 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:19:20,851 basehttp 59236 14420 "GET /admin/medicalStructureDataAdmin/schemaconfig/ HTTP/1.1" 200 34565
+INFO 2024-03-07 21:19:20,899 basehttp 59236 14420 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:19:25,678 basehttp 59236 14420 "GET /admin/medicalStructureDataAdmin/user/ HTTP/1.1" 200 30499
+INFO 2024-03-07 21:19:25,719 basehttp 59236 14420 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:19:27,846 basehttp 59236 14420 "GET /admin/medicalStructureDataAdmin/llm/ HTTP/1.1" 200 31556
+INFO 2024-03-07 21:19:27,889 basehttp 59236 14420 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-03-07 21:23:39,023 autoreload 59236 58312 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:23:39,847 autoreload 46900 49420 Watching for file changes with StatReloader
+INFO 2024-03-07 21:26:34,987 autoreload 46900 49420 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:26:35,761 autoreload 23716 15672 Watching for file changes with StatReloader
+INFO 2024-03-07 21:26:46,102 basehttp 23716 51760 "GET /admin/ HTTP/1.1" 200 21338
+INFO 2024-03-07 21:27:18,560 autoreload 23716 15672 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:27:19,376 autoreload 48816 57692 Watching for file changes with StatReloader
+INFO 2024-03-07 21:27:34,052 autoreload 48816 57692 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:27:34,987 autoreload 58908 50772 Watching for file changes with StatReloader
+INFO 2024-03-07 21:27:51,733 autoreload 58908 50772 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:27:52,600 autoreload 53400 57828 Watching for file changes with StatReloader
+INFO 2024-03-07 21:27:58,974 autoreload 53400 57828 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:28:00,266 autoreload 37896 29648 Watching for file changes with StatReloader
+INFO 2024-03-07 21:28:06,658 autoreload 37896 29648 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:28:07,648 autoreload 53012 56420 Watching for file changes with StatReloader
+INFO 2024-03-07 21:28:13,671 basehttp 53012 2204 "GET /admin/ HTTP/1.1" 200 21338
+INFO 2024-03-07 21:28:33,972 autoreload 53012 56420 D:\aItems\2023-11-19-school-Graduation-Project\A-code\Z-software-platform\medicalStructureDataAdmin\medicalStructureDataAdmin\urls.py changed, reloading.
+INFO 2024-03-07 21:28:34,703 autoreload 24856 58756 Watching for file changes with StatReloader
+INFO 2024-03-07 21:28:40,994 basehttp 24856 38804 "GET /admin/ HTTP/1.1" 200 21365
